@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iDriver</string>
+    <string name="correct_toast">You got it!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="g1_rule_practise">G1 rule Practise</string>
+    <string name="click_me">Click Me!</string>
+    <string name="textview">TextView</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+
+</resources>
